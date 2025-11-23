@@ -38,12 +38,10 @@ Ask questions about the PDF → system finds relevant chunks using embeddings.
 
 ---
 
-# 📦 Project Installation
+# 🛠️ Project Installation
 
 
 ---
-
-# 🛠️ Installation
 
 ### **1. Clone the repository**
 ```bash
